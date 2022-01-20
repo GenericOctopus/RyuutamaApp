@@ -4,8 +4,8 @@ An app for the ttrpg Ryuutama.
 
 Goals:
 
-Monster builder
-Encounter Builder
-Town/City Builder
-Scenario Builder
-Character builder
+Monster builder </br>
+Encounter Builder</br>
+Town/City Builder</br>
+Scenario Builder</br>
+Character builder</br>
