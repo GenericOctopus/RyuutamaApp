@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An app for the ttrpg Ryuutama.
 
-Things you may want to cover:
+Goals:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Monster builder </br>
+Encounter Builder</br>
+Town/City Builder</br>
+Scenario Builder</br>
+Character builder</br>
